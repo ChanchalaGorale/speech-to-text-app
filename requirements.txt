@@ -1,0 +1,6 @@
+faster-whisper>=1.0.0
+sounddevice>=0.4.6
+numpy>=1.24.0
+pyautogui>=0.9.54
+pyperclip>=1.8.2
+pynput>=1.7.6
