@@ -1,2 +1,0 @@
-# speech-to-text-app
-
